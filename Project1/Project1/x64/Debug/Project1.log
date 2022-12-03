@@ -1,0 +1,102 @@
+﻿  canvas.cpp
+  donut.cpp
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(7,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(17,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(18,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(37,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(38,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(41,1): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(42,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(43,14): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(48,1): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(50,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(51,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(58,18): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(58,22): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,11): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,21): warning C4244: “=”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(60,13): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(60,17): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(84,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(85,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(88,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(89,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(95,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(96,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(98,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(99,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(100,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(108,18): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(108,22): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(109,11): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(109,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(110,13): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(110,17): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(145,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(146,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(148,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(149,13): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(155,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(156,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(158,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(159,15): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(171,23): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(171,27): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(172,11): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(172,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(174,14): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(174,18): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(177,45): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(177,45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+  main.cpp
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(7,23): warning C4305: “初始化”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(17,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(18,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(37,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(38,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(41,1): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(48,1): warning C4305: “+=”: 从“double”到“float”截断
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(58,18): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(58,22): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,11): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(59,21): warning C4244: “=”: 从“float”转换到“_Ty”，可能丢失数据
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(60,13): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(60,17): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(84,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(85,18): warning C4244: “初始化”: 从“size_t”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(100,11): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(108,18): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(108,22): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(109,11): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(109,15): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(110,13): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(110,17): warning C4244: “参数”: 从“double”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(171,23): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(171,27): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(172,11): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(172,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(174,14): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(174,18): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(177,45): warning C4838: 从“double”转换到“float”需要收缩转换
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(177,45): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\main.cpp(22,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+  Project1.vcxproj -> C:\Users\gan_5\source\repos\Project1\x64\Debug\Project1.exe
