@@ -1,4 +1,5 @@
 ﻿  canvas.cpp
+C:\Users\gan_5\source\repos\Project1\Project1\canvas.cpp(27,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
   donut.cpp
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(7,23): warning C4305: “初始化”: 从“double”到“float”截断
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(17,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
@@ -58,6 +59,7 @@ C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,19): warning C4244: 
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
   main.cpp
+C:\Users\gan_5\source\repos\Project1\Project1\canvas.cpp(27,1): warning C4267: “参数”: 从“size_t”转换到“short”，可能丢失数据
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(7,23): warning C4305: “初始化”: 从“double”到“float”截断
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(17,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(18,14): warning C4244: “=”: 从“unsigned int”转换到“float”，可能丢失数据
@@ -97,6 +99,6 @@ C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,15): warning C4244: 
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(184,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,15): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
 C:\Users\gan_5\source\repos\Project1\Project1\donut.cpp(189,19): warning C4244: “参数”: 从“float”转换到“const unsigned __int64”，可能丢失数据
-C:\Users\gan_5\source\repos\Project1\Project1\main.cpp(22,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+C:\Users\gan_5\source\repos\Project1\Project1\main.cpp(59,41): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
   正在生成代码...
   Project1.vcxproj -> C:\Users\gan_5\source\repos\Project1\x64\Debug\Project1.exe

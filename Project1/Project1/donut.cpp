@@ -185,7 +185,7 @@ public:
 						}
 						else
 						{
-							usize lumi_index = (usize)(lumi * 8.5);
+							usize lumi_index = (usize)(lumi * 6.5);
 							output[xp][yp] = LUMINANCE_CHARS[lumi_index];
 						}
 					}
